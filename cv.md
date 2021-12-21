@@ -1,18 +1,19 @@
 # Artem Ivanov
 
-## Контактная информация
+## Contact information:
 
 * Phone: +375447741275
 * E-mail: artemontugg@gmail.com
 * GitHub: Arterixs
 * Telegram: @arteminder
-
+___
 ## About me
 
 I am 25 years old and work as an engineer in a strategic ice cream factory. In my free time, I lead an active lifestyle: rock climbing, running, hiking and trekking.
 
 I decided to try myself in front-end development, because I like to create something new and useful, I think that everything will work out for me.
 
+____
 ## Skils and Proficiency
 
 + Mogilev State University of Food
@@ -27,15 +28,18 @@ I decided to try myself in front-end development, because I like to create somet
 	- JavaScript Manual on learnjavascript.ru (in progress)
 	- RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 	
+___
 ## Code example:
 
-This code does not execute properly. Try to figure out why? 
-The problem was the lack of operator return
-
+__This code does not execute properly. Try to figure out why?__ 
+>_The problem was the lack of operator `return`_
+```javascript
 function multiply(a, b){
   return a * b
 }
-	
+```
+
+___
 ## Languages
 
 1. Russian
