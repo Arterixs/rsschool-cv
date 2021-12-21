@@ -7,14 +7,14 @@
 * GitHub: Arterixs
 * Telegram: @arteminder
 
-***
+___
 ## About me
 
 I am 25 years old and work as an engineer in a strategic ice cream factory. In my free time, I lead an active lifestyle: rock climbing, running, hiking and trekking.
 
 I decided to try myself in front-end development, because I like to create something new and useful, I think that everything will work out for me.
 
-***
+___
 ## Skils and Proficiency
 
 + Mogilev State University of Food
@@ -29,7 +29,8 @@ I decided to try myself in front-end development, because I like to create somet
 	- JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/) (in progress)
 	- RS Schools Course [«JavaScript/Front-end. Stage 0»](https://rs.school/js-stage0/) (in progress)
 
-***
+___
+
 ## Code example
 
 __This code does not execute properly. Try to figure out why?__ 
