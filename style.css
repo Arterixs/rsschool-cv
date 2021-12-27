@@ -1,0 +1,150 @@
+* {
+box-sizing: border-box;
+margin: 0 auto;
+}
+
+.body {
+width: 1000px;
+margin-top: 10px;
+margin-bottom: 20px;
+font-family: "Cabin", sans-serif;
+font-size: 16px;
+font-style: italic;
+box-shadow: 0 1px 30px rgba(0, 0, 0, 1), -23px 0 20px -23px rgba(0, 0, 0, .8), 23px 0 20px -23px rgba(0, 0, 0, .8), 0 0 40px rgba(0, 0, 0, .1) inset;
+border: solid 3px #000000;
+background: #058bed;
+}
+
+.container {
+ background: #d3d3cf;
+}
+
+h2 {
+font-style: italic;
+font-weight: 400;
+font-size: 2em;
+padding-bottom: 10px;
+padding-top:15px;
+}
+
+.nav {
+padding: 10px 0px;
+position: sticky;
+top: 0;
+background: #d3d3cf;
+}
+
+.list {
+list-style: none;
+text-align: right;
+padding-right: 0px;
+}
+
+.list_item {
+display: inline;
+padding: 0px 25px;
+}
+
+.header_block {
+display: flex;
+}
+
+.img {
+margin: 0px 0px 20px 10px;
+box-shadow: 0 1px 15px rgba(0, 0, 0, 1), -23px 0 20px -23px rgba(0, 0, 0, .8), 23px 0 20px -23px rgba(0, 0, 0, .8), 0 0 40px rgba(0, 0, 0, .1) inset;
+}
+
+.header_title {
+margin-left: 70px;
+}
+
+.header_h1 {
+font-weight: 900;
+font-size: 50px;
+font-style: normal;
+text-shadow: 7px 4px 5px #999191f8;
+letter-spacing: 10px;
+}
+
+.header_h2_list {
+padding-left: 20px;
+line-height: 20px;
+}
+
+.main {
+margin: 0px 20px;
+}
+
+.text {
+line-height: 20px;
+text-indent: 30px;
+}
+
+.great_item {
+line-height: 25px;
+}
+
+.href {
+text-decoration: none;
+color: #000000;
+}
+
+.href:hover {
+color: #058bed;
+text-decoration: underline;
+transition: width 0.4s ease-in-out;
+}
+
+.true {
+color: #0579ed;
+}
+
+.middle {
+color: #7905ed
+}
+
+.text_code {
+line-height: 20px;
+text-indent: 30px;
+margin: 10px 0px
+}
+
+.pre {
+box-shadow: inset 1px 0px 6px 0px;
+width: 280px;
+margin-left: 30px;
+}
+
+.code_one {
+color: #faec05;
+}
+
+.code_two {
+color: #120fbd;
+}
+
+.code_three {
+color: #d91a76;
+}
+
+.code_three_shadow {
+color: #d91a76;
+box-shadow: inset 0px 0px 3px 0px;
+letter-spacing: 2px;
+}
+
+.list_lang {
+line-height: 20px;
+}
+.footer {
+display: flex;
+align-items: center;
+}
+
+.href_git {
+margin-left: 50px;
+}
+
+.href_rs {
+margin-right: 50px;
+}
